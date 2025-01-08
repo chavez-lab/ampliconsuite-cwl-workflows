@@ -10,7 +10,7 @@ Note that folder names may change slightly from the names of the workflows withi
 - **ampliconsuite-grouped-cram**. Same as above, but accepts .cram inputs.
 
 ## Developer's Note
- Tool and workflow development was done on the CAVATICA platform and uploaded to GitHub using `sbpack`[^1]. This development pattern has some unfortunate consequences:
+ Tool and workflow development and testing was done on the CAVATICA platform and uploaded to GitHub using `sbpack`[^1]. This development pattern has some unfortunate consequences:
  - Version history is embedded in the files and not in git version control;
  - Lots of code in this repository is duplicated; for example, `zip.cwl` is a single tool developed on the CAVATICA platform, but is duplicated into each workflow here;
  - Code updates on the platform are not automatically propagated to this repository.
