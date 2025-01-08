@@ -17,4 +17,7 @@ Note that folder names may change slightly from the names of the workflows withi
 
 For these reasons, code is provided as-is for archival purposes. The code for this project is relatively stable, so we don't expect these to be major issues. However, we do recommend you copy the code snippets or paradigms you need rather than forking this project wholesale.
 
+## Contributors
+Owen Chapman, Aditi Dutta.
+
 [^1]:https://docs.cavatica.org/docs/maintaining-and-versioning-cwl-on-external-tool-repositories
